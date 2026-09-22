@@ -1,7 +1,7 @@
 ## 👋 Hi there, im deecoid
 
 ### Developing 
-- <!-- Programing languages -->
+<!-- Programing languages -->
 ![Assembly](https://img.shields.io/badge/Assembly-NASM-00599C?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
