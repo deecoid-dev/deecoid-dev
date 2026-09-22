@@ -1,16 +1,12 @@
-## Hi there 👋
+## 👋 Hi there, im deecoid
 
-<!--
-**deecoid-dev/deecoid-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developing 
+- **Currently programming on:** Python, Assembly (NASM)
+- **Wanna programing on:** C, C++
+- **Started from:** 2023-2024
+- **Am i using AI?:** Im using AI ONLY for non-serious projects that, in any case, do NOT require a lot of time or close oversight of the entire structure.
+- **IDE:** Visual Studio Code
+- **Main OS** is **Windows 10 LTSC**, but, soon i'll install a Debian Linux.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My projects
+- Its kinda **empty** here... Couldn't you wait a few days?
