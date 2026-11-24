@@ -21,5 +21,5 @@ About me:
 
 ║ ├──│» i like drinking coffee
 ```
-#Skills:
+# Skills:
 ![OpenCode](https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff)
