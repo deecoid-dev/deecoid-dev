@@ -37,10 +37,14 @@ Projects:
 ![svgpowered](https://88x31.nl/gifs/adobe_svg.gif)
 
 # Skills:
-<a href="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg" title="www.python.org, Public domain, via Wikimedia Commons"><img width="600" height="600" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail" srcset="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail 120w, https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/250px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail 250w, https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/500px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail 500w, https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail 960w, https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail 1280w, https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail 3840w" sizes="auto" loading="lazy" alt="Logo of Python"></a>
+<img width="120" height="120" alt="120px-Python-logo-notext svg" src="https://github.com/user-attachments/assets/a2993139-6ba8-4ea6-8390-36dc4be21199" />
 
-![OpenCode](https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-%235786FE.svg?style=for-the-badge&logo=deepseek&logoColor=white)
+<img width="300" height="300" alt="opencode" src="https://github.com/user-attachments/assets/feefe5f5-3963-41da-9788-dcf8508566d1" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" fill-rule="evenodd">
+  <title>opencode</title>
+  <path d="M16 6H8v12h8V6zm4 16H4V2h16v20z" />
+</svg>
+    
 ```
 Весь вечер пропал у подъезда в глазах
 Распятая жизнь разлеглась на часах
