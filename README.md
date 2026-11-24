@@ -37,21 +37,10 @@ Projects:
 ![svgpowered](https://88x31.nl/gifs/adobe_svg.gif)
 
 # Skills:
-<img width="120" height="120" alt="120px-Python-logo-notext svg" src="https://github.com/user-attachments/assets/a2993139-6ba8-4ea6-8390-36dc4be21199" />
-
-<img width="300" height="300" alt="opencode" src="https://github.com/user-attachments/assets/feefe5f5-3963-41da-9788-dcf8508566d1" />
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" fill-rule="evenodd">
-  <title>opencode</title>
-  <path d="M16 6H8v12h8V6zm4 16H4V2h16v20z" />
-</svg>
-    
-```
-Весь вечер пропал у подъезда в глазах
-Распятая жизнь разлеглась на часах
-Я крикнул ей в след то что это дерьмо
-Поступки, дела, все не так, всё равно
-Зачем ей?
-```
+<img width="64" height="64" alt="Cornmanthe3rd-Plex-Other-python 64" src="https://github.com/user-attachments/assets/a2a437d9-aadf-487c-8d89-ae62c7a58aea" />
+<img width="64" height="64" alt="opencode-64px" src="https://github.com/user-attachments/assets/f2cac706-98ae-4b5e-a55c-4fe2079e1c64" />
+<img width="64" height="64" alt="deepseek-logo-icon" src="https://github.com/user-attachments/assets/62951361-62a4-4f94-b140-bc34120d0632" />
+<img width="64" height="64" alt="google-gemini-icon" src="https://github.com/user-attachments/assets/fbd814a0-f1ce-40cf-ac99-e9cfee47efd4" />
 
 
 
