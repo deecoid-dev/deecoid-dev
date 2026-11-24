@@ -23,8 +23,6 @@
 ║           ║ ├──│» t.me/eldriftodee                                           ║
 ║                                                                              ║
 ════════════════════════════════════════════════════════════════════════════════
-Projects:
-  ║ ├──│» Currently working on FreeDee
 ```
 ![LOL](https://cyber.dabamos.de/88x31/m-lol.gif)
 ![home...](https://cyber.dabamos.de/88x31/anihome112g.gif)
@@ -42,5 +40,7 @@ Projects:
 <img width="64" height="64" alt="deepseek-logo-icon" src="https://github.com/user-attachments/assets/62951361-62a4-4f94-b140-bc34120d0632" />
 <img width="64" height="64" alt="google-gemini-icon" src="https://github.com/user-attachments/assets/fbd814a0-f1ce-40cf-ac99-e9cfee47efd4" />
 
+# Projects:
+[FreeDee](https://github.com/deecoid-dev/freedee) - Simple 3D engine on Python I made. I dont have something to say about it, so read README
 
 
