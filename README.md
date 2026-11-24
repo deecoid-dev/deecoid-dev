@@ -20,7 +20,11 @@ About me:
 Projects:
   ║ ├──│» Currently working on FreeDee
 ```
+![LOL](https://cyber.dabamos.de/88x31/m-lol.gif)
+![home...](https://cyber.dabamos.de/88x31/anihome112g.gif)
 ![3.5JACK](https://cyber.dabamos.de/88x31/3dot5mmfc-button.gif)
+![wmp7](https://cyber.dabamos.de/88x31/getwmp7.gif)
+![theoldnet](https://cyber.dabamos.de/88x31/theoldnet_but.gif)
 ![dOnTmeSSw](https://88x31.nl/gifs/bull.gif)
 ![abadon](https://cyber.dabamos.de/88x31/ah.gif)
 ![party](https://88x31.nl/gifs/butjesterparty.gif)
